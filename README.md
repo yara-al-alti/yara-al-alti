@@ -50,11 +50,12 @@ A dedicated **Software Developer** and **Quality Assurance Engineer** seeking to
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:yaraalti07@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  <a href="mailto:yaraalti07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://docs.google.com/document/d/1tBnck70FY2WWp8G1Y6Cv9xh-NSgqyQiE3JhLKH-7B5A/edit?usp=sharing" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.svg" alt="cv" height="30" width="40" />
+  &nbsp;
+  <a href="https://docs.google.com/document/d/1tBnck70FY2WWp8G1Y6Cv9xh-NSgqyQiE3JhLKH-7B5A/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
   </a>
 </p>
 
